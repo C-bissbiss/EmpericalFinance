@@ -1,1 +1,1 @@
-# EmpericalFinance
+# EmpiricalFinance
